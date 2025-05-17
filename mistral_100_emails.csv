@@ -1,0 +1,724 @@
+MASTER_GUEST_ID,total_transactions,total_spend_usd,avg_discount_pct,top_category,top_channel,top_market,top_coupon,last_txn_date,days_since_last_txn,persona_sentence,TXN_DATE,MASTER_ORDER_ORIGIN,SELLING_MARKET,item_list,email_intent,email_prompt,email_generated,subject_line,email_body,email_html
+e925a7fa-4c8f-4e75-8e0d-832e34f311e4,1,246.52,0.0,Accessories,ECOM,SG,CYBER15,2024-07-05 03:44:56.990734,315,"occasional ecom shopper from SG focused on Accessories, a mid-level spender and full-price shopper, lapsed guest who frequently uses promo codes like CYBER15, with last purchase 315 days ago.",2024-07-05,ECOM,SG,['Accessories'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional ecom shopper from SG focused on Accessories, a mid-level spender and full-price shopper, lapsed guest who frequently uses promo codes like CYBER15, with last purchase 315 days ago.
+
+They recently purchased the following items on 2024-07-05 via ECOM from the SG market:
+Accessories
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject Line: A Big Thank You for Your Recent Purchase!
+
+Dear [Customer Name],
+
+I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase from our ECOM store in Singapore. We are thrilled to have you as a customer, and we appreciate your business.
+
+We noticed that you have a particular interest in accessories, and we wanted to let you know that we have a wide selection of high-quality and stylish accessories available. From jewelry to bags to watches, we have something for everyone. If you're looking for something specific, please don't hesitate to let us know. We'd be happy to help you find exactly what you're looking for.
+
+As a mid-level spender and full-price shopper, we appreciate your willingness to invest in quality products. We hope that you enjoy your purchases and that they bring you joy and satisfaction.",Subject Line: A Big Thank You for Your Recent Purchase!,"Dear [Customer Name],
+
+I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase from our ECOM store in Singapore. We are thrilled to have you as a customer, and we appreciate your business.
+
+We noticed that you have a particular interest in accessories, and we wanted to let you know that we have a wide selection of high-quality and stylish accessories available. From jewelry to bags to watches, we have something for everyone. If you're looking for something specific, please don't hesitate to let us know. We'd be happy to help you find exactly what you're looking for.
+
+As a mid-level spender and full-price shopper, we appreciate your willingness to invest in quality products. We hope that you enjoy your purchases and that they bring you joy and satisfaction.","<h3>Subject Line: A Big Thank You for Your Recent Purchase!</h3><p>Dear [Customer Name],<br><br>I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase from our ECOM store in Singapore. We are thrilled to have you as a customer, and we appreciate your business.<br><br>We noticed that you have a particular interest in accessories, and we wanted to let you know that we have a wide selection of high-quality and stylish accessories available. From jewelry to bags to watches, we have something for everyone. If you're looking for something specific, please don't hesitate to let us know. We'd be happy to help you find exactly what you're looking for.<br><br>As a mid-level spender and full-price shopper, we appreciate your willingness to invest in quality products. We hope that you enjoy your purchases and that they bring you joy and satisfaction.</p>"
+1885c001-1354-4f23-a367-5f68c664c510,1,42.98,20.0,Training,ECOM,IN,,2024-05-21 19:38:50.912409,360,"occasional ecom shopper from IN focused on Training, a low spender and deal-seeker, lapsed guest who rarely uses promotions, with last purchase 360 days ago.",2024-05-21,ECOM,IN,['Training'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional ecom shopper from IN focused on Training, a low spender and deal-seeker, lapsed guest who rarely uses promotions, with last purchase 360 days ago.
+
+They recently purchased the following items on 2024-05-21 via ECOM from the IN market:
+Training
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject: Thank you for your recent purchase!
+
+Dear [Customer Name],
+
+I wanted to take a moment to thank you for your recent purchase from our store. We're thrilled to have you as a customer and appreciate your business.
+
+It's not every day that you make a purchase, but we're glad to see that you're still interested in what we have to offer. We hope that you're happy with your recent purchase and that it meets your needs.
+
+We also wanted to remind you that we have a wide selection of products in the same category as Training. If you're looking for more items to help you achieve your fitness goals, we have plenty of options to choose from.
+
+Once again, thank you for your business. We hope to see you again soon!
+
+Best regards,
+
+[Your Name]
+
+Email Body:
+
+Dear [Customer Name],
+
+I",Thank you for your recent purchase!,"Dear [Customer Name],
+
+I wanted to take a moment to thank you for your recent purchase from our store. We're thrilled to have you as a customer and appreciate your business.
+
+It's not every day that you make a purchase, but we're glad to see that you're still interested in what we have to offer. We hope that you're happy with your recent purchase and that it meets your needs.
+
+We also wanted to remind you that we have a wide selection of products in the same category as Training. If you're looking for more items to help you achieve your fitness goals, we have plenty of options to choose from.
+
+Once again, thank you for your business. We hope to see you again soon!
+
+Best regards,
+
+[Your Name]
+
+Email Body:
+
+Dear [Customer Name],
+
+I","<h3>Thank you for your recent purchase!</h3><p>Dear [Customer Name],<br><br>I wanted to take a moment to thank you for your recent purchase from our store. We're thrilled to have you as a customer and appreciate your business.<br><br>It's not every day that you make a purchase, but we're glad to see that you're still interested in what we have to offer. We hope that you're happy with your recent purchase and that it meets your needs.<br><br>We also wanted to remind you that we have a wide selection of products in the same category as Training. If you're looking for more items to help you achieve your fitness goals, we have plenty of options to choose from.<br><br>Once again, thank you for your business. We hope to see you again soon!<br><br>Best regards,<br><br>[Your Name]<br><br>Email Body:<br><br>Dear [Customer Name],<br><br>I</p>"
+484f8617-c8fd-489d-9a28-417d6e679da1,1,60.51,0.0,Running,APP,US,WINTER20,2025-01-01 03:45:20.870587,135,"occasional app shopper from US focused on Running, a low spender and full-price shopper, lapsed guest who frequently uses promo codes like WINTER20, with last purchase 135 days ago.",2025-01-01,APP,US,['Running'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional app shopper from US focused on Running, a low spender and full-price shopper, lapsed guest who frequently uses promo codes like WINTER20, with last purchase 135 days ago.
+
+They recently purchased the following items on 2025-01-01 via APP from the US market:
+Running
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Email subject: ""Thank you for your recent purchase""
+
+Dear [First Name],
+
+We hope this email finds you well. We wanted to take a moment to personally thank you for your recent purchase on our app. We are thrilled that you chose us for your running needs.
+
+We noticed that you are a casual app shopper from the US, and we appreciate your business. We hope that this purchase will inspire you to explore more of our products in the future.
+
+As a full-price shopper, we understand that every purchase is an investment in our brand, and we are grateful for your loyalty. We hope to continue serving you in the future.
+
+We also noticed that you have been using promo codes like WINTER20, which is great! We hope that you continue to take advantage of these offers in the future.
+
+It's been 135 days since your last purchase on our app. We","Email subject: ""Thank you for your recent purchase""","Dear [First Name],
+
+We hope this email finds you well. We wanted to take a moment to personally thank you for your recent purchase on our app. We are thrilled that you chose us for your running needs.
+
+We noticed that you are a casual app shopper from the US, and we appreciate your business. We hope that this purchase will inspire you to explore more of our products in the future.
+
+As a full-price shopper, we understand that every purchase is an investment in our brand, and we are grateful for your loyalty. We hope to continue serving you in the future.
+
+We also noticed that you have been using promo codes like WINTER20, which is great! We hope that you continue to take advantage of these offers in the future.
+
+It's been 135 days since your last purchase on our app. We","<h3>Email subject: ""Thank you for your recent purchase""</h3><p>Dear [First Name],<br><br>We hope this email finds you well. We wanted to take a moment to personally thank you for your recent purchase on our app. We are thrilled that you chose us for your running needs.<br><br>We noticed that you are a casual app shopper from the US, and we appreciate your business. We hope that this purchase will inspire you to explore more of our products in the future.<br><br>As a full-price shopper, we understand that every purchase is an investment in our brand, and we are grateful for your loyalty. We hope to continue serving you in the future.<br><br>We also noticed that you have been using promo codes like WINTER20, which is great! We hope that you continue to take advantage of these offers in the future.<br><br>It's been 135 days since your last purchase on our app. We</p>"
+aa85fd4f-63a2-4b91-bf32-ff736880f154,1,359.67,0.0,Running,APP,SG,,2024-12-09 16:39:34.890190,158,"occasional app shopper from SG focused on Running, a mid-level spender and full-price shopper, lapsed guest who rarely uses promotions, with last purchase 158 days ago.",2024-12-09,APP,SG,['Running'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional app shopper from SG focused on Running, a mid-level spender and full-price shopper, lapsed guest who rarely uses promotions, with last purchase 158 days ago.
+
+They recently purchased the following items on 2024-12-09 via APP from the SG market:
+Running
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject Line: A Heartfelt Thank You for Your Recent Purchase
+
+Dear [Customer Name],
+
+We wanted to take a moment to personally thank you for your recent purchase of [Running] on December 9th, 2024 from our APP market in SG. We are glad that you have chosen our brand and we hope that your experience shopping with us was enjoyable.
+
+We appreciate your support and are always looking for ways to improve our offerings to better meet the needs of our customers. We noticed that you are a mid-level spender and full-price shopper, which means that you value quality and are willing to pay a fair price for what you need. We are glad that you trust our brand and we hope to continue serving you in the future.
+
+We also noticed that you have been a lapsed guest who rarely uses promotions. We wanted to remind you that we offer a variety of promotions throughout",Subject Line: A Heartfelt Thank You for Your Recent Purchase,"Dear [Customer Name],
+
+We wanted to take a moment to personally thank you for your recent purchase of [Running] on December 9th, 2024 from our APP market in SG. We are glad that you have chosen our brand and we hope that your experience shopping with us was enjoyable.
+
+We appreciate your support and are always looking for ways to improve our offerings to better meet the needs of our customers. We noticed that you are a mid-level spender and full-price shopper, which means that you value quality and are willing to pay a fair price for what you need. We are glad that you trust our brand and we hope to continue serving you in the future.
+
+We also noticed that you have been a lapsed guest who rarely uses promotions. We wanted to remind you that we offer a variety of promotions throughout","<h3>Subject Line: A Heartfelt Thank You for Your Recent Purchase</h3><p>Dear [Customer Name],<br><br>We wanted to take a moment to personally thank you for your recent purchase of [Running] on December 9th, 2024 from our APP market in SG. We are glad that you have chosen our brand and we hope that your experience shopping with us was enjoyable.<br><br>We appreciate your support and are always looking for ways to improve our offerings to better meet the needs of our customers. We noticed that you are a mid-level spender and full-price shopper, which means that you value quality and are willing to pay a fair price for what you need. We are glad that you trust our brand and we hope to continue serving you in the future.<br><br>We also noticed that you have been a lapsed guest who rarely uses promotions. We wanted to remind you that we offer a variety of promotions throughout</p>"
+125dee5b-7146-4797-912e-1253d5c7fd22,1,246.54,0.0,Yoga,APP,DE,BLACKFRIDAY,2024-10-05 09:00:49.039769,223,"occasional app shopper from DE focused on Yoga, a mid-level spender and full-price shopper, lapsed guest who frequently uses promo codes like BLACKFRIDAY, with last purchase 223 days ago.",2024-10-05,APP,DE,['Yoga'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional app shopper from DE focused on Yoga, a mid-level spender and full-price shopper, lapsed guest who frequently uses promo codes like BLACKFRIDAY, with last purchase 223 days ago.
+
+They recently purchased the following items on 2024-10-05 via APP from the DE market:
+Yoga
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject Line: Thank you for your recent purchase
+
+Dear [Customer Name],
+
+I hope this email finds you well. We wanted to take a moment to thank you for your recent purchase of [Yoga] on our app on October 5th, 2024. We appreciate your business and are thrilled to have you as a customer in the DE market.
+
+As an occasional app shopper, we understand that you may not always have time to browse our website or visit our stores. But we hope that you find our app a convenient and easy way to shop for your favorite items. We're glad to see that you're interested in Yoga, and we hope to offer you more options in that category soon.
+
+We also noticed that you're a full-price shopper, which means you value the quality and value of our products. We're grateful for your loyalty and are always striving to provide you",Subject Line: Thank you for your recent purchase,"Dear [Customer Name],
+
+I hope this email finds you well. We wanted to take a moment to thank you for your recent purchase of [Yoga] on our app on October 5th, 2024. We appreciate your business and are thrilled to have you as a customer in the DE market.
+
+As an occasional app shopper, we understand that you may not always have time to browse our website or visit our stores. But we hope that you find our app a convenient and easy way to shop for your favorite items. We're glad to see that you're interested in Yoga, and we hope to offer you more options in that category soon.
+
+We also noticed that you're a full-price shopper, which means you value the quality and value of our products. We're grateful for your loyalty and are always striving to provide you","<h3>Subject Line: Thank you for your recent purchase</h3><p>Dear [Customer Name],<br><br>I hope this email finds you well. We wanted to take a moment to thank you for your recent purchase of [Yoga] on our app on October 5th, 2024. We appreciate your business and are thrilled to have you as a customer in the DE market.<br><br>As an occasional app shopper, we understand that you may not always have time to browse our website or visit our stores. But we hope that you find our app a convenient and easy way to shop for your favorite items. We're glad to see that you're interested in Yoga, and we hope to offer you more options in that category soon.<br><br>We also noticed that you're a full-price shopper, which means you value the quality and value of our products. We're grateful for your loyalty and are always striving to provide you</p>"
+6cf5d2fb-0ac6-4b4a-9819-e80810eeb029,1,61.92,0.0,Training,ECOM,US,,2025-04-29 02:28:01.084613,17,"occasional ecom shopper from US focused on Training, a low spender and full-price shopper, recent guest who rarely uses promotions, with last purchase 17 days ago.",2025-04-29,ECOM,US,['Training'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional ecom shopper from US focused on Training, a low spender and full-price shopper, recent guest who rarely uses promotions, with last purchase 17 days ago.
+
+They recently purchased the following items on 2025-04-29 via ECOM from the US market:
+Training
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject: Thank you for your recent purchase at [Product Name]
+
+Dear [Name],
+
+Thank you for your recent purchase of Training from our online store! We are thrilled to have you as a customer and we appreciate your business.
+
+We noticed that you are a full-price shopper who rarely uses promotions, and we understand that you have high standards when it comes to quality products. We hope that your recent purchase has met your expectations and that you have enjoyed using it.
+
+If you are interested in exploring more products in the same category, we would like to recommend [related item 1] and [related item 2]. We believe that these items will complement your recent purchase and enhance your overall shopping experience.
+
+We value your loyalty and look forward to serving you again in the future. If you have any questions or need assistance with your order, please do not hesitate to contact our customer service team.
+
+Thank you",Thank you for your recent purchase at [Product Name],"Dear [Name],
+
+Thank you for your recent purchase of Training from our online store! We are thrilled to have you as a customer and we appreciate your business.
+
+We noticed that you are a full-price shopper who rarely uses promotions, and we understand that you have high standards when it comes to quality products. We hope that your recent purchase has met your expectations and that you have enjoyed using it.
+
+If you are interested in exploring more products in the same category, we would like to recommend [related item 1] and [related item 2]. We believe that these items will complement your recent purchase and enhance your overall shopping experience.
+
+We value your loyalty and look forward to serving you again in the future. If you have any questions or need assistance with your order, please do not hesitate to contact our customer service team.
+
+Thank you","<h3>Thank you for your recent purchase at [Product Name]</h3><p>Dear [Name],<br><br>Thank you for your recent purchase of Training from our online store! We are thrilled to have you as a customer and we appreciate your business.<br><br>We noticed that you are a full-price shopper who rarely uses promotions, and we understand that you have high standards when it comes to quality products. We hope that your recent purchase has met your expectations and that you have enjoyed using it.<br><br>If you are interested in exploring more products in the same category, we would like to recommend [related item 1] and [related item 2]. We believe that these items will complement your recent purchase and enhance your overall shopping experience.<br><br>We value your loyalty and look forward to serving you again in the future. If you have any questions or need assistance with your order, please do not hesitate to contact our customer service team.<br><br>Thank you</p>"
+5d9d334d-e37d-4c75-bc5b-f7cc69465b73,1,384.78,0.0,Training,ECOM,AU,,2025-02-02 15:07:47.240829,103,"occasional ecom shopper from AU focused on Training, a mid-level spender and full-price shopper, lapsed guest who rarely uses promotions, with last purchase 103 days ago.",2025-02-02,ECOM,AU,['Training'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional ecom shopper from AU focused on Training, a mid-level spender and full-price shopper, lapsed guest who rarely uses promotions, with last purchase 103 days ago.
+
+They recently purchased the following items on 2025-02-02 via ECOM from the AU market:
+Training
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject Line: Thank you for your recent purchase, [Customer Name]!
+
+Dear [Customer Name],
+
+I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase at [Retail Brand].
+
+We appreciate your business and are glad to see that you have returned to our store to shop for training. We understand that you may have lapsed as a guest and rarely use promotions, but we are glad to see that you have spent mid-level and full-price, which is a testament to your loyalty to our brand.
+
+We hope you are satisfied with your recent purchase of [Training], and we would like to suggest some related items in the same category that you may find interesting. We have a range of products that can help you optimize your training regimen and achieve your goals.
+
+Thank you again for choosing [Retail Brand]. We look forward to your next visit and","Subject Line: Thank you for your recent purchase, [Customer Name]!","Dear [Customer Name],
+
+I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase at [Retail Brand].
+
+We appreciate your business and are glad to see that you have returned to our store to shop for training. We understand that you may have lapsed as a guest and rarely use promotions, but we are glad to see that you have spent mid-level and full-price, which is a testament to your loyalty to our brand.
+
+We hope you are satisfied with your recent purchase of [Training], and we would like to suggest some related items in the same category that you may find interesting. We have a range of products that can help you optimize your training regimen and achieve your goals.
+
+Thank you again for choosing [Retail Brand]. We look forward to your next visit and","<h3>Subject Line: Thank you for your recent purchase, [Customer Name]!</h3><p>Dear [Customer Name],<br><br>I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase at [Retail Brand].<br><br>We appreciate your business and are glad to see that you have returned to our store to shop for training. We understand that you may have lapsed as a guest and rarely use promotions, but we are glad to see that you have spent mid-level and full-price, which is a testament to your loyalty to our brand.<br><br>We hope you are satisfied with your recent purchase of [Training], and we would like to suggest some related items in the same category that you may find interesting. We have a range of products that can help you optimize your training regimen and achieve your goals.<br><br>Thank you again for choosing [Retail Brand]. We look forward to your next visit and</p>"
+a92f280c-efa3-4de0-8a08-05b1a0754157,1,388.83,0.0,Footwear,APP,HK,,2024-06-11 14:54:45.792403,339,"occasional app shopper from HK focused on Footwear, a mid-level spender and full-price shopper, lapsed guest who rarely uses promotions, with last purchase 339 days ago.",2024-06-11,APP,HK,['Footwear'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional app shopper from HK focused on Footwear, a mid-level spender and full-price shopper, lapsed guest who rarely uses promotions, with last purchase 339 days ago.
+
+They recently purchased the following items on 2024-06-11 via APP from the HK market:
+Footwear
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject: Thank You for Shopping with Our Brand!
+
+Dear [NAME],
+
+We wanted to take a moment to express our sincere gratitude for your recent purchase on our app from the Hong Kong market. We appreciate your business and are glad to have you as a part of our brand community.
+
+As an occasional app shopper from HK, we understand that your focus is on footwear. We're thrilled to hear that you've recently purchased some great items from us. Thank you for choosing our brand for your footwear needs.
+
+We notice that you are a full-price shopper and rarely use promotions. We appreciate your loyalty and hope that we can continue to offer you high-quality products at fair prices.
+
+It has been 339 days since your last purchase with us. We hope that you've been enjoying your new footwear and that it has been taking you on some amazing adventures.",Thank You for Shopping with Our Brand!,"Dear [NAME],
+
+We wanted to take a moment to express our sincere gratitude for your recent purchase on our app from the Hong Kong market. We appreciate your business and are glad to have you as a part of our brand community.
+
+As an occasional app shopper from HK, we understand that your focus is on footwear. We're thrilled to hear that you've recently purchased some great items from us. Thank you for choosing our brand for your footwear needs.
+
+We notice that you are a full-price shopper and rarely use promotions. We appreciate your loyalty and hope that we can continue to offer you high-quality products at fair prices.
+
+It has been 339 days since your last purchase with us. We hope that you've been enjoying your new footwear and that it has been taking you on some amazing adventures.","<h3>Thank You for Shopping with Our Brand!</h3><p>Dear [NAME],<br><br>We wanted to take a moment to express our sincere gratitude for your recent purchase on our app from the Hong Kong market. We appreciate your business and are glad to have you as a part of our brand community.<br><br>As an occasional app shopper from HK, we understand that your focus is on footwear. We're thrilled to hear that you've recently purchased some great items from us. Thank you for choosing our brand for your footwear needs.<br><br>We notice that you are a full-price shopper and rarely use promotions. We appreciate your loyalty and hope that we can continue to offer you high-quality products at fair prices.<br><br>It has been 339 days since your last purchase with us. We hope that you've been enjoying your new footwear and that it has been taking you on some amazing adventures.</p>"
+684e4be2-f969-4341-a278-e8dfa46a85d9,1,61.31,10.0,Footwear,ECOM,NL,,2025-02-06 16:29:07.464964,99,"occasional ecom shopper from NL focused on Footwear, a low spender and value-conscious, lapsed guest who rarely uses promotions, with last purchase 99 days ago.",2025-02-06,ECOM,NL,['Footwear'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional ecom shopper from NL focused on Footwear, a low spender and value-conscious, lapsed guest who rarely uses promotions, with last purchase 99 days ago.
+
+They recently purchased the following items on 2025-02-06 via ECOM from the NL market:
+Footwear
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject line: Thank you for your recent purchase! 
+
+Dear [Name],
+
+We wanted to take a moment to thank you for your recent purchase of Footwear from our online store! Your support means the world to us, and we're thrilled that you chose our brand.
+
+We noticed that you're an occasional ecom shopper from NL and focus on Footwear. As a value-conscious and low spender, we appreciate your business and want to make sure we're providing you with the best possible shopping experience.
+
+We hope you enjoyed your shopping experience with us and that you found what you were looking for. If you have any questions or need further assistance, please don't hesitate to reach out.
+
+As a lapsed guest, we would like to remind you of the promotions we offer to keep you coming back. We hope you'll consider shopping with us again soon, and we look forward to",Subject line: Thank you for your recent purchase!,"Dear [Name],
+
+We wanted to take a moment to thank you for your recent purchase of Footwear from our online store! Your support means the world to us, and we're thrilled that you chose our brand.
+
+We noticed that you're an occasional ecom shopper from NL and focus on Footwear. As a value-conscious and low spender, we appreciate your business and want to make sure we're providing you with the best possible shopping experience.
+
+We hope you enjoyed your shopping experience with us and that you found what you were looking for. If you have any questions or need further assistance, please don't hesitate to reach out.
+
+As a lapsed guest, we would like to remind you of the promotions we offer to keep you coming back. We hope you'll consider shopping with us again soon, and we look forward to","<h3>Subject line: Thank you for your recent purchase!</h3><p>Dear [Name],<br><br>We wanted to take a moment to thank you for your recent purchase of Footwear from our online store! Your support means the world to us, and we're thrilled that you chose our brand.<br><br>We noticed that you're an occasional ecom shopper from NL and focus on Footwear. As a value-conscious and low spender, we appreciate your business and want to make sure we're providing you with the best possible shopping experience.<br><br>We hope you enjoyed your shopping experience with us and that you found what you were looking for. If you have any questions or need further assistance, please don't hesitate to reach out.<br><br>As a lapsed guest, we would like to remind you of the promotions we offer to keep you coming back. We hope you'll consider shopping with us again soon, and we look forward to</p>"
+b855df6b-0fe3-40b9-bf31-300489cbe96e,1,121.98,0.0,Training,STORE,CA,CYBER15,2024-07-28 07:58:57.717785,292,"occasional store shopper from CA focused on Training, a low spender and full-price shopper, lapsed guest who frequently uses promo codes like CYBER15, with last purchase 292 days ago.",2024-07-28,STORE,CA,['Training'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional store shopper from CA focused on Training, a low spender and full-price shopper, lapsed guest who frequently uses promo codes like CYBER15, with last purchase 292 days ago.
+
+They recently purchased the following items on 2024-07-28 via STORE from the CA market:
+Training
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject: Thank you for your recent purchase!
+
+Dear [Customer Name],
+
+I wanted to take a moment to thank you for your recent purchase from our store. We appreciate your business and are thrilled to have you as a loyal customer.
+
+We noticed that you're an occasional store shopper from CA focused on Training, and we wanted to let you know that we have a wide selection of related items in the same category. Whether you're looking for the latest gear, equipment, or accessories, we have something for everyone.
+
+As a full-price shopper, we understand that you value high-quality products, and we're confident that you'll find exactly what you're looking for on our website. If you have any questions or need assistance with your purchase, please don't hesitate to contact our customer service team.
+
+We hope to see you back in our store soon. Thank you for choosing us,",Thank you for your recent purchase!,"Dear [Customer Name],
+
+I wanted to take a moment to thank you for your recent purchase from our store. We appreciate your business and are thrilled to have you as a loyal customer.
+
+We noticed that you're an occasional store shopper from CA focused on Training, and we wanted to let you know that we have a wide selection of related items in the same category. Whether you're looking for the latest gear, equipment, or accessories, we have something for everyone.
+
+As a full-price shopper, we understand that you value high-quality products, and we're confident that you'll find exactly what you're looking for on our website. If you have any questions or need assistance with your purchase, please don't hesitate to contact our customer service team.
+
+We hope to see you back in our store soon. Thank you for choosing us,","<h3>Thank you for your recent purchase!</h3><p>Dear [Customer Name],<br><br>I wanted to take a moment to thank you for your recent purchase from our store. We appreciate your business and are thrilled to have you as a loyal customer.<br><br>We noticed that you're an occasional store shopper from CA focused on Training, and we wanted to let you know that we have a wide selection of related items in the same category. Whether you're looking for the latest gear, equipment, or accessories, we have something for everyone.<br><br>As a full-price shopper, we understand that you value high-quality products, and we're confident that you'll find exactly what you're looking for on our website. If you have any questions or need assistance with your purchase, please don't hesitate to contact our customer service team.<br><br>We hope to see you back in our store soon. Thank you for choosing us,</p>"
+88267c9a-8690-4bda-b493-8ed47bb5cdd1,1,296.0,0.0,Yoga,ECOM,NL,,2024-07-08 21:45:40.506899,312,"occasional ecom shopper from NL focused on Yoga, a mid-level spender and full-price shopper, lapsed guest who rarely uses promotions, with last purchase 312 days ago.",2024-07-08,ECOM,NL,['Yoga'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional ecom shopper from NL focused on Yoga, a mid-level spender and full-price shopper, lapsed guest who rarely uses promotions, with last purchase 312 days ago.
+
+They recently purchased the following items on 2024-07-08 via ECOM from the NL market:
+Yoga
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject: Thank you for choosing [Brand Name]
+
+Dear [Customer Name],
+
+We wanted to take a moment to thank you for your recent purchase from [Brand Name]. We appreciate your business and hope that you're enjoying your new Yoga product.
+
+As an occasional ecom shopper from NL, we understand that you're focused on Yoga and that your shopping habits are not as frequent as some of our other customers. However, we're glad to have you back and we hope that you continue to shop with us in the future.
+
+We know that you're a full-price shopper and we respect your commitment to paying the full price for the products you love. And we also appreciate that you rarely use promotions, which shows us that you value the quality and value of our products.
+
+We understand that your last purchase was 312 days ago, but we're still here to assist",Thank you for choosing [Brand Name],"Dear [Customer Name],
+
+We wanted to take a moment to thank you for your recent purchase from [Brand Name]. We appreciate your business and hope that you're enjoying your new Yoga product.
+
+As an occasional ecom shopper from NL, we understand that you're focused on Yoga and that your shopping habits are not as frequent as some of our other customers. However, we're glad to have you back and we hope that you continue to shop with us in the future.
+
+We know that you're a full-price shopper and we respect your commitment to paying the full price for the products you love. And we also appreciate that you rarely use promotions, which shows us that you value the quality and value of our products.
+
+We understand that your last purchase was 312 days ago, but we're still here to assist","<h3>Thank you for choosing [Brand Name]</h3><p>Dear [Customer Name],<br><br>We wanted to take a moment to thank you for your recent purchase from [Brand Name]. We appreciate your business and hope that you're enjoying your new Yoga product.<br><br>As an occasional ecom shopper from NL, we understand that you're focused on Yoga and that your shopping habits are not as frequent as some of our other customers. However, we're glad to have you back and we hope that you continue to shop with us in the future.<br><br>We know that you're a full-price shopper and we respect your commitment to paying the full price for the products you love. And we also appreciate that you rarely use promotions, which shows us that you value the quality and value of our products.<br><br>We understand that your last purchase was 312 days ago, but we're still here to assist</p>"
+bb274a7d-27d1-4cf7-9695-889305993917,1,58.54,0.0,Yoga,STORE,CA,,2024-11-25 09:33:01.625036,172,"occasional store shopper from CA focused on Yoga, a low spender and full-price shopper, lapsed guest who rarely uses promotions, with last purchase 172 days ago.",2024-11-25,STORE,CA,['Yoga'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional store shopper from CA focused on Yoga, a low spender and full-price shopper, lapsed guest who rarely uses promotions, with last purchase 172 days ago.
+
+They recently purchased the following items on 2024-11-25 via STORE from the CA market:
+Yoga
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject Line: Thank you for your recent purchase at [Brand Name]
+
+Dear [First Name],
+
+I hope this email finds you well! We wanted to take a moment to thank you for your recent purchase at [Brand Name]. We appreciate your business and hope to see you again soon.
+
+We noticed that you are a California-based occasional store shopper who enjoys practicing Yoga. We hope you have been finding our products helpful in your practice. If you're interested in exploring other Yoga-related items, we have a great selection of Yoga mats, blocks, and props that you may find useful.
+
+Additionally, we noticed that you are a full-price shopper who rarely uses promotions. We value your loyalty and would like to remind you that we offer occasional promotions that you may be interested in. You can sign up for our newsletter to receive notifications of any upcoming promotions.",Subject Line: Thank you for your recent purchase at [Brand Name],"Dear [First Name],
+
+I hope this email finds you well! We wanted to take a moment to thank you for your recent purchase at [Brand Name]. We appreciate your business and hope to see you again soon.
+
+We noticed that you are a California-based occasional store shopper who enjoys practicing Yoga. We hope you have been finding our products helpful in your practice. If you're interested in exploring other Yoga-related items, we have a great selection of Yoga mats, blocks, and props that you may find useful.
+
+Additionally, we noticed that you are a full-price shopper who rarely uses promotions. We value your loyalty and would like to remind you that we offer occasional promotions that you may be interested in. You can sign up for our newsletter to receive notifications of any upcoming promotions.","<h3>Subject Line: Thank you for your recent purchase at [Brand Name]</h3><p>Dear [First Name],<br><br>I hope this email finds you well! We wanted to take a moment to thank you for your recent purchase at [Brand Name]. We appreciate your business and hope to see you again soon.<br><br>We noticed that you are a California-based occasional store shopper who enjoys practicing Yoga. We hope you have been finding our products helpful in your practice. If you're interested in exploring other Yoga-related items, we have a great selection of Yoga mats, blocks, and props that you may find useful.<br><br>Additionally, we noticed that you are a full-price shopper who rarely uses promotions. We value your loyalty and would like to remind you that we offer occasional promotions that you may be interested in. You can sign up for our newsletter to receive notifications of any upcoming promotions.</p>"
+ea6214f3-bd5a-47df-8c42-a884c01cafd4,1,250.71,0.0,Yoga,ECOM,AU,,2025-03-02 08:40:52.973955,75,"occasional ecom shopper from AU focused on Yoga, a mid-level spender and full-price shopper, somewhat active guest who rarely uses promotions, with last purchase 75 days ago.",2025-03-02,ECOM,AU,['Yoga'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional ecom shopper from AU focused on Yoga, a mid-level spender and full-price shopper, somewhat active guest who rarely uses promotions, with last purchase 75 days ago.
+
+They recently purchased the following items on 2025-03-02 via ECOM from the AU market:
+Yoga
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject Line: Thank you for your recent purchase!
+
+Dear [Name],
+
+I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase of [Yoga] from our online store. We are thrilled that you chose to shop with us and hope that your experience was enjoyable and satisfactory.
+
+We appreciate your business and hope that you continue to shop with us in the future. If you are interested in exploring related items in the same category, we have a great selection of [Yoga] items that may interest you. You can find them on our website at [website link].
+
+Thank you again for your patronage, and we look forward to serving you in the future.
+
+Best regards,
+
+[Your Name]",Subject Line: Thank you for your recent purchase!,"Dear [Name],
+
+I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase of [Yoga] from our online store. We are thrilled that you chose to shop with us and hope that your experience was enjoyable and satisfactory.
+
+We appreciate your business and hope that you continue to shop with us in the future. If you are interested in exploring related items in the same category, we have a great selection of [Yoga] items that may interest you. You can find them on our website at [website link].
+
+Thank you again for your patronage, and we look forward to serving you in the future.
+
+Best regards,
+
+[Your Name]","<h3>Subject Line: Thank you for your recent purchase!</h3><p>Dear [Name],<br><br>I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase of [Yoga] from our online store. We are thrilled that you chose to shop with us and hope that your experience was enjoyable and satisfactory.<br><br>We appreciate your business and hope that you continue to shop with us in the future. If you are interested in exploring related items in the same category, we have a great selection of [Yoga] items that may interest you. You can find them on our website at [website link].<br><br>Thank you again for your patronage, and we look forward to serving you in the future.<br><br>Best regards,<br><br>[Your Name]</p>"
+16ca12cd-b5db-4da0-93a3-e27cb94924ee,1,139.05,0.0,Running,APP,US,,2024-08-02 00:41:29.724070,287,"occasional app shopper from US focused on Running, a low spender and full-price shopper, lapsed guest who rarely uses promotions, with last purchase 287 days ago.",2024-08-02,APP,US,['Running'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional app shopper from US focused on Running, a low spender and full-price shopper, lapsed guest who rarely uses promotions, with last purchase 287 days ago.
+
+They recently purchased the following items on 2024-08-02 via APP from the US market:
+Running
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject line: Thank you for your recent purchase!
+
+Dear [Name],
+
+I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase on our app. We are thrilled to have you as a customer and appreciate the support you have shown us.
+
+We noticed that you are an occasional app shopper and have a history of focusing on running gear. As a full-price shopper, we understand that you value quality and are willing to pay a premium for the items that you need. Additionally, we noticed that you have a tendency to lapse as a guest and rarely use promotions. We hope that you find the items that you are looking for on our app and that we can continue to provide you with a great shopping experience in the future.
+
+We also wanted to let you know that we have some related items in the running category that we think you might enjoy. We have a wide selection of",Subject line: Thank you for your recent purchase!,"Dear [Name],
+
+I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase on our app. We are thrilled to have you as a customer and appreciate the support you have shown us.
+
+We noticed that you are an occasional app shopper and have a history of focusing on running gear. As a full-price shopper, we understand that you value quality and are willing to pay a premium for the items that you need. Additionally, we noticed that you have a tendency to lapse as a guest and rarely use promotions. We hope that you find the items that you are looking for on our app and that we can continue to provide you with a great shopping experience in the future.
+
+We also wanted to let you know that we have some related items in the running category that we think you might enjoy. We have a wide selection of","<h3>Subject line: Thank you for your recent purchase!</h3><p>Dear [Name],<br><br>I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase on our app. We are thrilled to have you as a customer and appreciate the support you have shown us.<br><br>We noticed that you are an occasional app shopper and have a history of focusing on running gear. As a full-price shopper, we understand that you value quality and are willing to pay a premium for the items that you need. Additionally, we noticed that you have a tendency to lapse as a guest and rarely use promotions. We hope that you find the items that you are looking for on our app and that we can continue to provide you with a great shopping experience in the future.<br><br>We also wanted to let you know that we have some related items in the running category that we think you might enjoy. We have a wide selection of</p>"
+c59850c8-e556-4b42-b0d8-1b3d81616bf2,1,378.72,0.0,Yoga,ECOM,US,BLACKFRIDAY,2024-12-19 19:13:01.000032,148,"occasional ecom shopper from US focused on Yoga, a mid-level spender and full-price shopper, lapsed guest who frequently uses promo codes like BLACKFRIDAY, with last purchase 148 days ago.",2024-12-19,ECOM,US,['Yoga'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional ecom shopper from US focused on Yoga, a mid-level spender and full-price shopper, lapsed guest who frequently uses promo codes like BLACKFRIDAY, with last purchase 148 days ago.
+
+They recently purchased the following items on 2024-12-19 via ECOM from the US market:
+Yoga
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject Line: Thank You for Your Recent Purchase - The Yoga Collection!
+
+Dear [Customer Name],
+
+I hope this email finds you well! I wanted to take a moment to personally thank you for choosing [Brand Name] for your recent purchase of Yoga. We are always grateful for customers like you who appreciate the importance of self-care and wellness.
+
+We noticed that you have been a lapsed guest with us for quite some time now, but thankfully you've recently returned! We hope that you are finding our Yoga collection to be an excellent source of peace, relaxation, and mindfulness. We are glad to have you as a mid-level spender and full-price shopper. We understand the importance of investing in quality products that align with your values and help you achieve your goals.
+
+We would like to recommend some related items in the same category that you may find interesting. Our [Brand Name",Subject Line: Thank You for Your Recent Purchase - The Yoga Collection!,"Dear [Customer Name],
+
+I hope this email finds you well! I wanted to take a moment to personally thank you for choosing [Brand Name] for your recent purchase of Yoga. We are always grateful for customers like you who appreciate the importance of self-care and wellness.
+
+We noticed that you have been a lapsed guest with us for quite some time now, but thankfully you've recently returned! We hope that you are finding our Yoga collection to be an excellent source of peace, relaxation, and mindfulness. We are glad to have you as a mid-level spender and full-price shopper. We understand the importance of investing in quality products that align with your values and help you achieve your goals.
+
+We would like to recommend some related items in the same category that you may find interesting. Our [Brand Name","<h3>Subject Line: Thank You for Your Recent Purchase - The Yoga Collection!</h3><p>Dear [Customer Name],<br><br>I hope this email finds you well! I wanted to take a moment to personally thank you for choosing [Brand Name] for your recent purchase of Yoga. We are always grateful for customers like you who appreciate the importance of self-care and wellness.<br><br>We noticed that you have been a lapsed guest with us for quite some time now, but thankfully you've recently returned! We hope that you are finding our Yoga collection to be an excellent source of peace, relaxation, and mindfulness. We are glad to have you as a mid-level spender and full-price shopper. We understand the importance of investing in quality products that align with your values and help you achieve your goals.<br><br>We would like to recommend some related items in the same category that you may find interesting. Our [Brand Name</p>"
+19a1ff44-cdfe-4fc2-9113-6fc34987f09a,1,108.2,0.0,Training,APP,NL,BLACKFRIDAY,2025-03-20 01:42:29.198110,57,"occasional app shopper from NL focused on Training, a low spender and full-price shopper, somewhat active guest who frequently uses promo codes like BLACKFRIDAY, with last purchase 57 days ago.",2025-03-20,APP,NL,['Training'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional app shopper from NL focused on Training, a low spender and full-price shopper, somewhat active guest who frequently uses promo codes like BLACKFRIDAY, with last purchase 57 days ago.
+
+They recently purchased the following items on 2025-03-20 via APP from the NL market:
+Training
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject Line: A big thank you for choosing our brand, [First Name]
+
+Dear [First Name],
+
+I hope this email finds you well. I wanted to take a moment to personally thank you for choosing [Brand Name] as your go-to retail destination. We appreciate your business and are always here to help you find the perfect items for your lifestyle.
+
+As an occasional app shopper from NL, your focus on training has led you to seek out the best products to help you achieve your goals. We're glad that we have been able to provide you with what you need to enhance your fitness journey.
+
+We noticed that you have been a full-price shopper, which is a great way to ensure that you get the best quality products at fair prices. You are also an active guest and have used our promo codes like BLACKFRIDAY to get the most out of your shopping experience. We appreciate your loyalty and","Subject Line: A big thank you for choosing our brand, [First Name]","Dear [First Name],
+
+I hope this email finds you well. I wanted to take a moment to personally thank you for choosing [Brand Name] as your go-to retail destination. We appreciate your business and are always here to help you find the perfect items for your lifestyle.
+
+As an occasional app shopper from NL, your focus on training has led you to seek out the best products to help you achieve your goals. We're glad that we have been able to provide you with what you need to enhance your fitness journey.
+
+We noticed that you have been a full-price shopper, which is a great way to ensure that you get the best quality products at fair prices. You are also an active guest and have used our promo codes like BLACKFRIDAY to get the most out of your shopping experience. We appreciate your loyalty and","<h3>Subject Line: A big thank you for choosing our brand, [First Name]</h3><p>Dear [First Name],<br><br>I hope this email finds you well. I wanted to take a moment to personally thank you for choosing [Brand Name] as your go-to retail destination. We appreciate your business and are always here to help you find the perfect items for your lifestyle.<br><br>As an occasional app shopper from NL, your focus on training has led you to seek out the best products to help you achieve your goals. We're glad that we have been able to provide you with what you need to enhance your fitness journey.<br><br>We noticed that you have been a full-price shopper, which is a great way to ensure that you get the best quality products at fair prices. You are also an active guest and have used our promo codes like BLACKFRIDAY to get the most out of your shopping experience. We appreciate your loyalty and</p>"
+af63904d-d5e9-4367-8919-0173ce80a9a6,1,140.82,0.0,Running,APP,HK,CYBER15,2025-03-23 06:30:17.562886,54,"occasional app shopper from HK focused on Running, a low spender and full-price shopper, somewhat active guest who frequently uses promo codes like CYBER15, with last purchase 54 days ago.",2025-03-23,APP,HK,['Running'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional app shopper from HK focused on Running, a low spender and full-price shopper, somewhat active guest who frequently uses promo codes like CYBER15, with last purchase 54 days ago.
+
+They recently purchased the following items on 2025-03-23 via APP from the HK market:
+Running
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Also, optionally add information about promotions, new products, and upcoming events.
+
+Subject Line: Thank You for Choosing [Brand Name]!
+
+Dear [Customer Name],
+
+I hope this email finds you well! It's been a while since you last shopped with us on [Brand Name]'s app, and we wanted to take a moment to say thank you for choosing us as your go-to retail destination.
+
+We appreciate your business, and we hope that you've been enjoying your recent purchase of [Running]. As an occasional app shopper who values full-price items, we're thrilled to have you as part of our customer base.
+
+We wanted to suggest some related items in the running category that you might be interested in. Don't forget to check out our running shoes, clothing, and accessories. Our full selection can be found on [Brand Name]'s app, and","Also, optionally add information about promotions, new products, and upcoming events.","Subject Line: Thank You for Choosing [Brand Name]!
+
+Dear [Customer Name],
+
+I hope this email finds you well! It's been a while since you last shopped with us on [Brand Name]'s app, and we wanted to take a moment to say thank you for choosing us as your go-to retail destination.
+
+We appreciate your business, and we hope that you've been enjoying your recent purchase of [Running]. As an occasional app shopper who values full-price items, we're thrilled to have you as part of our customer base.
+
+We wanted to suggest some related items in the running category that you might be interested in. Don't forget to check out our running shoes, clothing, and accessories. Our full selection can be found on [Brand Name]'s app, and","<h3>Also, optionally add information about promotions, new products, and upcoming events.</h3><p>Subject Line: Thank You for Choosing [Brand Name]!<br><br>Dear [Customer Name],<br><br>I hope this email finds you well! It's been a while since you last shopped with us on [Brand Name]'s app, and we wanted to take a moment to say thank you for choosing us as your go-to retail destination.<br><br>We appreciate your business, and we hope that you've been enjoying your recent purchase of [Running]. As an occasional app shopper who values full-price items, we're thrilled to have you as part of our customer base.<br><br>We wanted to suggest some related items in the running category that you might be interested in. Don't forget to check out our running shoes, clothing, and accessories. Our full selection can be found on [Brand Name]'s app, and</p>"
+5bd3533e-2e3f-4c77-93ad-a49b63315b7c,1,276.48,10.0,Outerwear,APP,NL,CYBER15,2024-10-20 13:34:56.162430,208,"occasional app shopper from NL focused on Outerwear, a mid-level spender and value-conscious, lapsed guest who frequently uses promo codes like CYBER15, with last purchase 208 days ago.",2024-10-20,APP,NL,['Outerwear'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional app shopper from NL focused on Outerwear, a mid-level spender and value-conscious, lapsed guest who frequently uses promo codes like CYBER15, with last purchase 208 days ago.
+
+They recently purchased the following items on 2024-10-20 via APP from the NL market:
+Outerwear
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject Line: Thank you for choosing us again, [Name], we're glad you're back!
+
+Dear [Name],
+
+I hope this email finds you well! I wanted to take a moment to personally thank you for your recent purchase of outerwear from our app. We're thrilled to have you back as a customer and appreciate your continued support.
+
+We noticed that you're a mid-level spender who values a great deal, just like you did with your last purchase. We're glad that you found what you were looking for on our app, and we hope you're enjoying your new outerwear!
+
+As a frequent user of promo codes like CYBER15, we know that you're always on the lookout for a great deal. That's why we wanted to recommend some related items in the same category. We have a range of stylish and functional outerwear options that we","Subject Line: Thank you for choosing us again, [Name], we're glad you're back!","Dear [Name],
+
+I hope this email finds you well! I wanted to take a moment to personally thank you for your recent purchase of outerwear from our app. We're thrilled to have you back as a customer and appreciate your continued support.
+
+We noticed that you're a mid-level spender who values a great deal, just like you did with your last purchase. We're glad that you found what you were looking for on our app, and we hope you're enjoying your new outerwear!
+
+As a frequent user of promo codes like CYBER15, we know that you're always on the lookout for a great deal. That's why we wanted to recommend some related items in the same category. We have a range of stylish and functional outerwear options that we","<h3>Subject Line: Thank you for choosing us again, [Name], we're glad you're back!</h3><p>Dear [Name],<br><br>I hope this email finds you well! I wanted to take a moment to personally thank you for your recent purchase of outerwear from our app. We're thrilled to have you back as a customer and appreciate your continued support.<br><br>We noticed that you're a mid-level spender who values a great deal, just like you did with your last purchase. We're glad that you found what you were looking for on our app, and we hope you're enjoying your new outerwear!<br><br>As a frequent user of promo codes like CYBER15, we know that you're always on the lookout for a great deal. That's why we wanted to recommend some related items in the same category. We have a range of stylish and functional outerwear options that we</p>"
+a4e79fac-3839-4ee0-988e-5976431dd291,1,117.7,10.0,Training,STORE,CA,,2024-11-24 20:44:18.944954,173,"occasional store shopper from CA focused on Training, a low spender and value-conscious, lapsed guest who rarely uses promotions, with last purchase 173 days ago.",2024-11-24,STORE,CA,['Training'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional store shopper from CA focused on Training, a low spender and value-conscious, lapsed guest who rarely uses promotions, with last purchase 173 days ago.
+
+They recently purchased the following items on 2024-11-24 via STORE from the CA market:
+Training
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","---
+
+Subject: A Warm Thank You for Your Recent Purchase
+
+Dear [Name],
+
+I hope this email finds you well. We wanted to take a moment to acknowledge and thank you for your recent purchase at [retail brand]. Your support means the world to us and we are grateful for your business.
+
+We noticed that you haven't been with us in a while and we wanted to extend a friendly reminder that we are always here to offer you the best value for your needs. As a value-conscious occasional store shopper focused on training, we wanted to suggest some related items in the same category that you might find useful.
+
+[Incorporate a product recommendation related to their purchase history]
+
+We hope you find these products as helpful as you have been loyal to us. If you have any questions or need assistance, please don't hesitate to reach out. We are always here to help.",A Warm Thank You for Your Recent Purchase,"---
+
+
+Dear [Name],
+
+I hope this email finds you well. We wanted to take a moment to acknowledge and thank you for your recent purchase at [retail brand]. Your support means the world to us and we are grateful for your business.
+
+We noticed that you haven't been with us in a while and we wanted to extend a friendly reminder that we are always here to offer you the best value for your needs. As a value-conscious occasional store shopper focused on training, we wanted to suggest some related items in the same category that you might find useful.
+
+[Incorporate a product recommendation related to their purchase history]
+
+We hope you find these products as helpful as you have been loyal to us. If you have any questions or need assistance, please don't hesitate to reach out. We are always here to help.","<h3>A Warm Thank You for Your Recent Purchase</h3><p>---<br><br><br>Dear [Name],<br><br>I hope this email finds you well. We wanted to take a moment to acknowledge and thank you for your recent purchase at [retail brand]. Your support means the world to us and we are grateful for your business.<br><br>We noticed that you haven't been with us in a while and we wanted to extend a friendly reminder that we are always here to offer you the best value for your needs. As a value-conscious occasional store shopper focused on training, we wanted to suggest some related items in the same category that you might find useful.<br><br>[Incorporate a product recommendation related to their purchase history]<br><br>We hope you find these products as helpful as you have been loyal to us. If you have any questions or need assistance, please don't hesitate to reach out. We are always here to help.</p>"
+fc153519-3b1b-44c8-9406-b93ebddf5a83,1,191.83,15.0,Training,ECOM,FR,NEWYEAR10,2024-11-03 23:29:20.180501,194,"occasional ecom shopper from FR focused on Training, a low spender and value-conscious, lapsed guest who frequently uses promo codes like NEWYEAR10, with last purchase 194 days ago.",2024-11-03,ECOM,FR,['Training'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional ecom shopper from FR focused on Training, a low spender and value-conscious, lapsed guest who frequently uses promo codes like NEWYEAR10, with last purchase 194 days ago.
+
+They recently purchased the following items on 2024-11-03 via ECOM from the FR market:
+Training
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject: Thank You for Your Recent Purchase!
+
+Dear [Name],
+
+Thank you for choosing our brand again! We are thrilled that you decided to shop with us on 2024-11-03 and purchase the Training item.
+
+We appreciate your loyalty as a low spender and value-conscious customer. We hope you enjoyed your shopping experience with us and found the Training item that met your needs.
+
+As a frequent user of promo codes like NEWYEAR10, we wanted to remind you that we offer a wide range of products at discounted prices throughout the year. We encourage you to explore our other products in the Training category and take advantage of any promotions or discounts that we may have available.
+
+We value your business and hope to see you again soon. Thank you again for choosing our brand!
+
+Best regards,
+
+[Your Name]
+Global Retail Brand",Thank You for Your Recent Purchase!,"Dear [Name],
+
+Thank you for choosing our brand again! We are thrilled that you decided to shop with us on 2024-11-03 and purchase the Training item.
+
+We appreciate your loyalty as a low spender and value-conscious customer. We hope you enjoyed your shopping experience with us and found the Training item that met your needs.
+
+As a frequent user of promo codes like NEWYEAR10, we wanted to remind you that we offer a wide range of products at discounted prices throughout the year. We encourage you to explore our other products in the Training category and take advantage of any promotions or discounts that we may have available.
+
+We value your business and hope to see you again soon. Thank you again for choosing our brand!
+
+Best regards,
+
+[Your Name]
+Global Retail Brand","<h3>Thank You for Your Recent Purchase!</h3><p>Dear [Name],<br><br>Thank you for choosing our brand again! We are thrilled that you decided to shop with us on 2024-11-03 and purchase the Training item.<br><br>We appreciate your loyalty as a low spender and value-conscious customer. We hope you enjoyed your shopping experience with us and found the Training item that met your needs.<br><br>As a frequent user of promo codes like NEWYEAR10, we wanted to remind you that we offer a wide range of products at discounted prices throughout the year. We encourage you to explore our other products in the Training category and take advantage of any promotions or discounts that we may have available.<br><br>We value your business and hope to see you again soon. Thank you again for choosing our brand!<br><br>Best regards,<br><br>[Your Name]<br>Global Retail Brand</p>"
+b0e595d0-e666-437b-b6af-bf5f05b90fec,1,124.47,10.0,Yoga,STORE,CA,WINTER20,2025-02-24 02:21:37.774938,81,"occasional store shopper from CA focused on Yoga, a low spender and value-conscious, somewhat active guest who frequently uses promo codes like WINTER20, with last purchase 81 days ago.",2025-02-24,STORE,CA,['Yoga'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional store shopper from CA focused on Yoga, a low spender and value-conscious, somewhat active guest who frequently uses promo codes like WINTER20, with last purchase 81 days ago.
+
+They recently purchased the following items on 2025-02-24 via STORE from the CA market:
+Yoga
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject: Personalized Thank You from [Brand Name]
+
+Dear [Name],
+
+We wanted to take a moment to personally thank you for your recent purchase at [Brand Name]. Your support means the world to us, and we are thrilled to have you as a customer.
+
+We noticed that you are an occasional store shopper from CA, with a focus on Yoga. You are a value-conscious individual who frequently uses promo codes like WINTER20. We appreciate your business and we hope that we can continue to provide you with high-quality products that you enjoy.
+
+We also wanted to suggest some related items in the Yoga category that you may be interested in. Check out our collection of Yoga mats, blocks, and straps to help you perfect your practice.
+
+Thank you again for your patronage. We look forward to serving you again in the future.
+
+Best regards,
+
+[",Personalized Thank You from [Brand Name],"Dear [Name],
+
+We wanted to take a moment to personally thank you for your recent purchase at [Brand Name]. Your support means the world to us, and we are thrilled to have you as a customer.
+
+We noticed that you are an occasional store shopper from CA, with a focus on Yoga. You are a value-conscious individual who frequently uses promo codes like WINTER20. We appreciate your business and we hope that we can continue to provide you with high-quality products that you enjoy.
+
+We also wanted to suggest some related items in the Yoga category that you may be interested in. Check out our collection of Yoga mats, blocks, and straps to help you perfect your practice.
+
+Thank you again for your patronage. We look forward to serving you again in the future.
+
+Best regards,
+
+[","<h3>Personalized Thank You from [Brand Name]</h3><p>Dear [Name],<br><br>We wanted to take a moment to personally thank you for your recent purchase at [Brand Name]. Your support means the world to us, and we are thrilled to have you as a customer.<br><br>We noticed that you are an occasional store shopper from CA, with a focus on Yoga. You are a value-conscious individual who frequently uses promo codes like WINTER20. We appreciate your business and we hope that we can continue to provide you with high-quality products that you enjoy.<br><br>We also wanted to suggest some related items in the Yoga category that you may be interested in. Check out our collection of Yoga mats, blocks, and straps to help you perfect your practice.<br><br>Thank you again for your patronage. We look forward to serving you again in the future.<br><br>Best regards,<br><br>[</p>"
+5b9aba58-7b6e-485c-961b-b0339dba1caf,1,249.16,0.0,Accessories,ECOM,CA,,2025-05-04 11:21:04.655505,12,"occasional ecom shopper from CA focused on Accessories, a mid-level spender and full-price shopper, recent guest who rarely uses promotions, with last purchase 12 days ago.",2025-05-04,ECOM,CA,['Accessories'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional ecom shopper from CA focused on Accessories, a mid-level spender and full-price shopper, recent guest who rarely uses promotions, with last purchase 12 days ago.
+
+They recently purchased the following items on 2025-05-04 via ECOM from the CA market:
+Accessories
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject Line: Thank you for your recent purchase!
+
+Dear [First Name],
+
+I wanted to take a moment to thank you for your recent purchase. It's always a pleasure to see a familiar face, especially when they're taking advantage of the many items we have to offer.
+
+We appreciate your continued patronage and hope that you are enjoying your purchases. If you are interested in more of the same, we have a selection of accessories that we think you will love. They are the perfect addition to any outfit and are sure to impress.
+
+We also wanted to let you know that your recent purchase was made within 12 days, which means that we value your time and your business. We hope to have you back soon for another shopping experience.
+
+Thank you again for choosing [Global Retail Brand]. We can't wait to see you soon!
+
+Best regards,
+
+[Your Name]
+
+Email Body",Subject Line: Thank you for your recent purchase!,"Dear [First Name],
+
+I wanted to take a moment to thank you for your recent purchase. It's always a pleasure to see a familiar face, especially when they're taking advantage of the many items we have to offer.
+
+We appreciate your continued patronage and hope that you are enjoying your purchases. If you are interested in more of the same, we have a selection of accessories that we think you will love. They are the perfect addition to any outfit and are sure to impress.
+
+We also wanted to let you know that your recent purchase was made within 12 days, which means that we value your time and your business. We hope to have you back soon for another shopping experience.
+
+Thank you again for choosing [Global Retail Brand]. We can't wait to see you soon!
+
+Best regards,
+
+[Your Name]
+
+Email Body","<h3>Subject Line: Thank you for your recent purchase!</h3><p>Dear [First Name],<br><br>I wanted to take a moment to thank you for your recent purchase. It's always a pleasure to see a familiar face, especially when they're taking advantage of the many items we have to offer.<br><br>We appreciate your continued patronage and hope that you are enjoying your purchases. If you are interested in more of the same, we have a selection of accessories that we think you will love. They are the perfect addition to any outfit and are sure to impress.<br><br>We also wanted to let you know that your recent purchase was made within 12 days, which means that we value your time and your business. We hope to have you back soon for another shopping experience.<br><br>Thank you again for choosing [Global Retail Brand]. We can't wait to see you soon!<br><br>Best regards,<br><br>[Your Name]<br><br>Email Body</p>"
+1a347ffb-fda6-451e-b242-6df47132225d,1,31.74,20.0,Footwear,APP,GB,NEWYEAR10,2025-04-24 05:17:08.716064,22,"occasional app shopper from GB focused on Footwear, a low spender and deal-seeker, recent guest who frequently uses promo codes like NEWYEAR10, with last purchase 22 days ago.",2025-04-24,APP,GB,['Footwear'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional app shopper from GB focused on Footwear, a low spender and deal-seeker, recent guest who frequently uses promo codes like NEWYEAR10, with last purchase 22 days ago.
+
+They recently purchased the following items on 2025-04-24 via APP from the GB market:
+Footwear
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject: Thanks for choosing our footwear! 🌍<br>
+
+Dear [Customer Name],
+
+We wanted to take a moment to thank you for choosing our footwear on your recent purchase on 2025-04-24! We appreciate your business and hope that you enjoyed your shopping experience with us.
+
+As an occasional app shopper from GB, we understand that you are focused on finding the best deals and discounts. We wanted to remind you that you can always use our promo codes to get exclusive savings on your purchases. In fact, you recently used the NEWYEAR10 code to get 10% off your last purchase just 22 days ago!
+
+We hope that you have been satisfied with your recent purchase and that you'll continue to choose our footwear in the future. If you have any feedback or suggestions for us, we'd love to hear them. You can contact us",Thanks for choosing our footwear! 🌍<br>,"Dear [Customer Name],
+
+We wanted to take a moment to thank you for choosing our footwear on your recent purchase on 2025-04-24! We appreciate your business and hope that you enjoyed your shopping experience with us.
+
+As an occasional app shopper from GB, we understand that you are focused on finding the best deals and discounts. We wanted to remind you that you can always use our promo codes to get exclusive savings on your purchases. In fact, you recently used the NEWYEAR10 code to get 10% off your last purchase just 22 days ago!
+
+We hope that you have been satisfied with your recent purchase and that you'll continue to choose our footwear in the future. If you have any feedback or suggestions for us, we'd love to hear them. You can contact us","<h3>Thanks for choosing our footwear! 🌍<br></h3><p>Dear [Customer Name],<br><br>We wanted to take a moment to thank you for choosing our footwear on your recent purchase on 2025-04-24! We appreciate your business and hope that you enjoyed your shopping experience with us.<br><br>As an occasional app shopper from GB, we understand that you are focused on finding the best deals and discounts. We wanted to remind you that you can always use our promo codes to get exclusive savings on your purchases. In fact, you recently used the NEWYEAR10 code to get 10% off your last purchase just 22 days ago!<br><br>We hope that you have been satisfied with your recent purchase and that you'll continue to choose our footwear in the future. If you have any feedback or suggestions for us, we'd love to hear them. You can contact us</p>"
+2ff3be86-7bcb-420c-9be7-243fd232bd3e,1,104.83,0.0,Footwear,APP,CA,WINTER20,2025-05-13 19:19:49.682011,3,"occasional app shopper from CA focused on Footwear, a low spender and full-price shopper, recent guest who frequently uses promo codes like WINTER20, with last purchase 3 days ago.",2025-05-13,APP,CA,['Footwear'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional app shopper from CA focused on Footwear, a low spender and full-price shopper, recent guest who frequently uses promo codes like WINTER20, with last purchase 3 days ago.
+
+They recently purchased the following items on 2025-05-13 via APP from the CA market:
+Footwear
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject: Thank you for your recent purchase at [Brand Name]!
+
+Dear [Customer Name],
+
+I hope this email finds you well! I wanted to take a moment to personally thank you for your recent purchase at [Brand Name]. It means the world to us that you chose [Brand Name] for your footwear needs.
+
+As an occasional app shopper from CA focused on Footwear, we appreciate your business and hope to have the opportunity to serve you again in the future. We noticed that you are a full-price shopper and that you frequently use promo codes like WINTER20. We hope that this purchase has made your shopping experience even more enjoyable.
+
+We wanted to remind you that [Brand Name] offers a wide range of footwear options, from casual to formal, and everything in between. We hope that you'll explore some of our other offerings in the same category and find something that",Thank you for your recent purchase at [Brand Name]!,"Dear [Customer Name],
+
+I hope this email finds you well! I wanted to take a moment to personally thank you for your recent purchase at [Brand Name]. It means the world to us that you chose [Brand Name] for your footwear needs.
+
+As an occasional app shopper from CA focused on Footwear, we appreciate your business and hope to have the opportunity to serve you again in the future. We noticed that you are a full-price shopper and that you frequently use promo codes like WINTER20. We hope that this purchase has made your shopping experience even more enjoyable.
+
+We wanted to remind you that [Brand Name] offers a wide range of footwear options, from casual to formal, and everything in between. We hope that you'll explore some of our other offerings in the same category and find something that","<h3>Thank you for your recent purchase at [Brand Name]!</h3><p>Dear [Customer Name],<br><br>I hope this email finds you well! I wanted to take a moment to personally thank you for your recent purchase at [Brand Name]. It means the world to us that you chose [Brand Name] for your footwear needs.<br><br>As an occasional app shopper from CA focused on Footwear, we appreciate your business and hope to have the opportunity to serve you again in the future. We noticed that you are a full-price shopper and that you frequently use promo codes like WINTER20. We hope that this purchase has made your shopping experience even more enjoyable.<br><br>We wanted to remind you that [Brand Name] offers a wide range of footwear options, from casual to formal, and everything in between. We hope that you'll explore some of our other offerings in the same category and find something that</p>"
+5017f7d2-152c-48c8-a755-37add0034eba,1,194.87,10.0,Footwear,ECOM,GB,WINTER20,2024-11-12 21:31:55.969965,185,"occasional ecom shopper from GB focused on Footwear, a low spender and value-conscious, lapsed guest who frequently uses promo codes like WINTER20, with last purchase 185 days ago.",2024-11-12,ECOM,GB,['Footwear'],thank_you,"You are an email copywriter for a global retail brand.
+
+Write a personalized thank-you email with a subject line and email body for the following customer:
+
+occasional ecom shopper from GB focused on Footwear, a low spender and value-conscious, lapsed guest who frequently uses promo codes like WINTER20, with last purchase 185 days ago.
+
+They recently purchased the following items on 2024-11-12 via ECOM from the GB market:
+Footwear
+
+Tone should be warm and grateful, and the email should optionally suggest related items in the same category.","Subject: Thank you for your recent purchase!
+
+Dear [First Name],
+
+I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase from our store. We are thrilled to have you as a customer and appreciate your business.
+
+We noticed that you are an occasional ecom shopper from GB focused on Footwear, and we wanted to assure you that we have a variety of footwear options for all budgets and preferences. We understand that you are value-conscious and appreciate promotional codes like WINTER20, and we would love for you to stay in touch with us to learn about any upcoming promotional deals.
+
+We hope that you enjoyed your recent purchase and that you find our products to be of high quality and value. If there is anything else you need assistance with, please do not hesitate to reach out to us. We are always here to help and would love for you to",Thank you for your recent purchase!,"Dear [First Name],
+
+I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase from our store. We are thrilled to have you as a customer and appreciate your business.
+
+We noticed that you are an occasional ecom shopper from GB focused on Footwear, and we wanted to assure you that we have a variety of footwear options for all budgets and preferences. We understand that you are value-conscious and appreciate promotional codes like WINTER20, and we would love for you to stay in touch with us to learn about any upcoming promotional deals.
+
+We hope that you enjoyed your recent purchase and that you find our products to be of high quality and value. If there is anything else you need assistance with, please do not hesitate to reach out to us. We are always here to help and would love for you to","<h3>Thank you for your recent purchase!</h3><p>Dear [First Name],<br><br>I hope this email finds you well! I wanted to take a moment to thank you for your recent purchase from our store. We are thrilled to have you as a customer and appreciate your business.<br><br>We noticed that you are an occasional ecom shopper from GB focused on Footwear, and we wanted to assure you that we have a variety of footwear options for all budgets and preferences. We understand that you are value-conscious and appreciate promotional codes like WINTER20, and we would love for you to stay in touch with us to learn about any upcoming promotional deals.<br><br>We hope that you enjoyed your recent purchase and that you find our products to be of high quality and value. If there is anything else you need assistance with, please do not hesitate to reach out to us. We are always here to help and would love for you to</p>"
